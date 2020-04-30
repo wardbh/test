@@ -1,4 +1,4 @@
-const apiForTest = {
+{
     title: "Homepage Simulation",
     stories: [
         {
@@ -55,4 +55,4 @@ const apiForTest = {
             id: "XYZ"
         }, 
     ]
-};
+}
