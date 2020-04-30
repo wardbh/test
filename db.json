@@ -1,1 +1,52 @@
-{"adIds":[],"abstract":["U.S. consumer confidence takes a dive amid coronavirus","Stoxx Europe 600 Index closed at its highest in seven weeks"],"attachments":{"image":{"361604479":{"baseUrl":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihLcttFipiTU/v0/-1x-1.jpg","description":"Pedestrians wearing protective masks are reflected in an electronic stock board outside a securities firm in Tokyo, Japan, on Friday, March 13, 2020.  Photographer: Kiyoshi Ota/Bloomberg","caption":"Pedestrians wearing protective masks are reflected in an electronic stock board outside a securities firm in Tokyo, Japan, on Friday, March 13, 2020.  Photographer: Kiyoshi Ota/Bloomberg","origWidth":2000,"title":"Asia Stocks Trade Mixed After U.S. Rally; Oil Down: Markets Wrap"},"361605843":{"baseUrl":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDwgMTl7hi2Q/v4/-1x-1.png","description":"","caption":"","credit":"","origWidth":1200,"title":"S&P 500's earnings per share estimate has tumbled as the pandemic spread"},"361620237":{"baseUrl":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN4VsOmruXy0/v0/-1x-1.jpg","description":"Monitors displaying stock market information are seen through the window of the Nasdaq MarketSite in the Times Square neighborhood of New York on March 19. Photographer: Michael Nagle/Bloomberg","caption":"Monitors displaying stock market information are seen through the window of the Nasdaq MarketSite in the Times Square neighborhood of New York on March 19. Photographer: Michael Nagle/Bloomberg","origWidth":2000,"title":"Manhattan As Cuomo Orders 75% Of New Yorkers To Stay Home From Work"},"361620241":{"baseUrl":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iimlUxsH90cg/v0/-1x-1.jpg","description":"Monitors displaying stock market information are seen through the window of the Nasdaq MarketSite in the Times Square neighborhood of New York on March 19. Photographer: Michael Nagle/Bloomberg","caption":"Monitors displaying stock market information are seen through the window of the Nasdaq MarketSite in the Times Square neighborhood of New York on March 19. Photographer: Michael Nagle/Bloomberg","origWidth":2000,"title":"Manhattan As Cuomo Orders 75% Of New Yorkers To Stay Home From Work"},"_expanded":true}},"body":"<p>The biggest U.S. technology shares slumped, weighing on major equity gauges as consumer confidence crashed and more companies withdrew earnings guidance. The dollar weakened.</p>","byline":"Claire Ballentine and Katherine Greifeld","categories":["markets"],"type":"article","updatedAt":"2020-04-28T20:17:20.695Z","url":"https://www.bloomberg.com/news/articles/2020-04-27/asia-stocks-to-follow-u-s-peers-higher-oil-sinks-markets-wrap","webOriginal":false,"adCode":"business/general"}
+{
+  "type": "single_story",
+  "variation": "premium_hfs",
+  "embedUrl": "https://www.bloomberg.com/graphics/cov19-market-embed/jobless-mar27.html",
+  "id": "hfs",
+  "items": [
+    {
+      "id": "Q9KP5FT0G1KW01",
+      "curatedAt": "2020-04-30T12:32:49.000Z",
+      "relatedStories": {
+        "news": [
+          {
+            "id": "Q9LQX9DWLU6L01",
+            "curatedAt": "2020-04-30T17:26:14.779+00:00",
+            "headlines": {
+              "markup": {
+                "web": "Strain: The Many New Indicators of an Epic Job Collapse"
+              }
+            }
+          },
+          {
+            "id": "Q9KI9ET0AFB401",
+            "curatedAt": "2020-04-30T17:26:14.787+00:00",
+            "summary": {
+              "text": "Follow the latest developments in global markets."
+            }
+          },
+          {
+            "id": "Q9IEZUDWRGG201",
+            "curatedAt": "2020-04-30T17:26:14.789+00:00",
+            "headlines": {
+              "markup": {
+                "web": "Small Business Relief and Covid-19: What You Need to Know"
+              }
+            }
+          },
+          {
+            "id": "Q9JZPZT0AFB401",
+            "curatedAt": "2020-04-30T12:27:01.000Z"
+          }
+        ]
+      }
+    }
+  ],
+  "updatedAt": "2020-04-30T16:33:56.000Z",
+  "autofill": false,
+  "editorialTitle": "HFS",
+  "tracking": {
+    "id": "784f8392-72da-4c9d-b937-185c8e59661c",
+    "title": "HFS"
+  }
+}
